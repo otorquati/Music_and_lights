@@ -1,6 +1,6 @@
 @charset "UTF-8"
 body {
-    background-color: white;
+    background-color: red;
     color: rgba(0,0,0,1);
 }
 p {
@@ -14,4 +14,19 @@ table#servicos {
 }
 table#servicos td{
     border: 1px solid #606060;
+}
+/* Formatação do Menu */
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: 130px;
+    bottom: 500;
+}
+nav#menu li {
+    display: inline-block ;
+    background-color: #606060;
+    padding: 10px;
+    margin: 2px;
+    right: 915;
 }
