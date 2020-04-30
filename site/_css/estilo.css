@@ -19,11 +19,11 @@ p {
 }
 /* Formatação de Imagens com legendas */
 table#servicos {
-    border: 1px solid #606060;
+    border: 1px solid #9b7676;
     border-spacing: 0px;
 }
 table#servicos td{
-    border: 1px solid #606060;
+    border: 1px solid #927575;
 }
 /* Formatação do Menu */
 nav#menu ul {
@@ -35,7 +35,7 @@ nav#menu ul {
 }
 nav#menu li {
     display: inline-block ;
-    background-color: #606060;
+    background-color: #b48787;
     padding: 10px;
     margin: 2px;
     right: 915;
